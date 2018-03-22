@@ -1,21 +1,14 @@
 # Sanptrude
 Selenium project based on POM design pattern.
 
-There are three packages
-common
-pages
-tests
+There are three packages common ,pages,tests.
 
-*Common package 
-common class -before class and common methods
-configfilereader- to read data from configuration properties
+Under Common package , common class -before class and common methods
+and configfilereader- to read data from configuration properties.
 
-*tests package
-email subscription testcase
-login test case
+Under tests package ,email subscription testcase and login test case
 
-*pages package
-will have object of login page and subscription page.
+Under pages package, object of login page and subscription page.
 
 
 
